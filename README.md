@@ -6,5 +6,5 @@ The app is a card memory game, where the player flips a card, and then tries to 
 
 Within the app, I applied mobile development concepts, like the MVVM architecture for the main structure and logic of the app, animations and transitions for moving views, and SwiftUI structures and paradigms to create those views.
 
-[Here](https://youtu.be/OGuUCyhydDA) is a video explanation of the app:
+[Here](https://youtu.be/OGuUCyhydDA) is a video explanation of the app (please make sure to change the video quality if the default resolution is not good)
 
